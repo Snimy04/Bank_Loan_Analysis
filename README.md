@@ -1,5 +1,3 @@
-# Bank_Loan_Analysis
-Our data analytics project focuses on analyzing a dataset related to loan transactions to derive insights that can inform strategic decision-making.  By leveraging data-driven techniques and statistical analysis, we aim to uncover patterns, trends, and relationships within the data. 
 
 
 The project encompasses various key performance indicators (KPIs), including year-wise loan amount statistics, grade and sub-grade wise revolving balance, payment behavior based on verification status, state-wise and month-wise loan status, loan amount by purpose  and the relationship between home ownership and payment patterns.
