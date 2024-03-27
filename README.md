@@ -1,4 +1,5 @@
-
+Through this analysis, we seek to provide actionable insights to optimize loan management, mitigate risks, and enhance overall performance.
+The project encompasses various key performance indicators (KPIs), including year-wise loan amount statistics, grade and sub-grade wise revolving balance, payment behavior based on verification status, state-wise and month-wise loan status, loan amount by purpose and the relationship between home ownership and payment patterns.
 
 
 OBJECTIVE:
